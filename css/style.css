@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* product card-1 */
+div#main_div{
+    background-color: aliceblue;
+       width: 25%;
+       padding: 20px;
+       margin: 20px;
+    
+}
+div#product_image{
+    text-align: center;
+    margin: 20px;
+}
+div#product_image img{
+    width: 100%;
+}
+#product_info h4{
+    margin: 15px 0;
+}
+
+#product_info h4 a{
+    color: #111111;
+    text-decoration: none;
+    font-family: 'Noto Sans', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-size: 18px;
+line-height: 1.5;
+
+
+}
+#product_info h4 a:hover{
+    color: rgb(159, 223, 12);
+    text-decoration: underline;
+
+}
+#product_info ul{
+margin-bottom: 15px;
+}
+#product_info ul li{
+color: #333333;
+line-height: 1.5;
+margin-left: 10px;
+font-size: 18px;
+
+}
+#product_info h5{
+    color: coral;
+    text-align: center;
+    font-size: 23px;
+    margin: 10px;
+}
+
+div#product_button button{
+    display: block;
+    width: 100%;
+    margin: 10px;
+    font-size: 20px;
+    color: #333333;
+    background-color: blanchedalmond;
+    padding: 15px 10px;
+
+}
+div#product_button button:hover{
+    background-color: blue;
+    color: white;
+    
+}
+
+
+/* product card-2*/
+
+
+div#main_div2{
+    background-color: aliceblue;
+    width: 25%;
+    padding: 20px;
+    margin: 20px;
+}
+div#product_image2{
+    text-align:center;
+    margin: 20px;
+    
+}
+div#product_image2 img{
+    width: 100%;
+}
+#product_info2 h4{
+    margin: 15px 0;
+}
+#product_info2 h4 a{
+    color: #111111;
+    text-decoration: none;
+    font-family: 'Noto Sans', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-size: 18px;
+line-height: 1.5;
+}
+#product_info2 h4 a:hover{
+    color: rgb(159, 223, 12);
+    text-decoration: underline;
+}
+#product_info2 ul{
+    margin-bottom: 15px;
+}
+#product_info2 ul li{
+    color: #333333;
+line-height: 1.5;
+margin-left: 10px;
+font-size: 18px;
+}
+
+#product_info2 h5{
+    color: coral;
+    text-align: center;
+    font-size: 23px;
+    margin: 10px;
+}
+div#product_button2 button{
+    display: block;
+    width: 100%;
+    margin: 10px;
+    font-size: 20px;
+    color: #333333;
+    background-color: blanchedalmond;
+    padding: 15px 10px;
+
+}
+div#product_button2 button:hover{
+    background-color: blue;
+    color: white;
+}
